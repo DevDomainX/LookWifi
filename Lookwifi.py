@@ -3,6 +3,7 @@ from colorama import init, Fore, Style, Back
 import os
 from time import sleep
 init()
+os.system("clear")
 print(Fore.YELLOW+Style.BRIGHT+"""
 
     '##::::::::'#######:::'#######::'##:::'##:
